@@ -25,7 +25,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 
 - Email: rafaelsantoscostat@gmail.com
-
+- Telefone: 12991813925
 ---
 
 Feito com ❤️ por Rafael Costa
