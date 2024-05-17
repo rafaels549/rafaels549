@@ -1,5 +1,4 @@
- #👋 Hello! Welcome to my Github profile.
-## My name is SeuNomeAqui and my nickname is "SeuApelidoAqui"!
+[![rafaels549 GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaels549)](https://github.com/rafaels549/github-readme-stats)
 
 
 
