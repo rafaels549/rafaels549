@@ -9,9 +9,9 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 
 ## 🔧 Tecnologias e Ferramentas
-<div style="center">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
 ### Backend
 ![Java Spring Boot](https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
