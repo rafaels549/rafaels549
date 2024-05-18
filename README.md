@@ -9,16 +9,15 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
   <a href="https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
   </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only" alt="Top Langs" />
+  </a>
 </div>
 
 
 ## 🔧 Tecnologias e Ferramentas
 
-<div align="center" padding="5px">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only" alt="Top Langs" />
-  </a>
-</div>
+
 
 ## Backend
 ![Java Spring Boot](https://img.shields.io/badge/Java%20Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
