@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only" alt="Top Langs" style="max-width: 45%;" />
   </a>
  
-    </div>
+</div>
 
 
 
