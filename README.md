@@ -4,11 +4,7 @@
 [![GitHub rafels549](https://img.shields.io/github/stars/rafaels549?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/rafaels549)
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro trabalhar com diversas linguagens e frameworks para criar soluções incríveis.
-<div>
-<a href="https://github.com/rafaels549">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only)
 ## 🔧 Tecnologias e Ferramentas
 
 ### Backend
