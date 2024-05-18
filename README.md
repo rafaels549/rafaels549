@@ -5,7 +5,7 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro trabalhar com diversas linguagens e frameworks para criar soluções incríveis.
 
-<div align="center" justify="center">
+<div align="center" >
 
   <a href="https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only" >
     <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" style="margin-bottom: 100px;" />
