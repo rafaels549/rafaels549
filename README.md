@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 <div align="center" justify="center">
  
   <a href="https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only" style="margin-right: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" style="max-width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" style="margin-bottom: 100px;" />
   </a>
 
 
