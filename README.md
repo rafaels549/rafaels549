@@ -9,7 +9,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 
 ## 🔧 Tecnologias e Ferramentas
-<div style="align-center">
+<div style="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 ### Backend
