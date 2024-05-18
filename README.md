@@ -4,10 +4,10 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 <div align="center">
 
-  <a href="https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only" style="margin-right: 20px;">
+  <a href="https://github.com/rafaels549" style="margin-right: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/rafaels549">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only" alt="Top Langs" style="max-width: 45%;" />
   </a>
 
