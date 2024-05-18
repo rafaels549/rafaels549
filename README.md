@@ -4,7 +4,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologi
 
 <div align="center">
 
-  <a href="https://github.com/rafaels549" style="margin-right: 20px;">
+  <a href="https://github.com/rafaels549" style="margin-bottom: 100px;">
     <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
   </a>
   <a href="https://github.com/rafaels549">
