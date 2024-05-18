@@ -5,6 +5,8 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro trabalhar com diversas linguagens e frameworks para criar soluções incríveis.
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rafaels549/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔧 Tecnologias e Ferramentas
 
 ### Backend
