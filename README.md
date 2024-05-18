@@ -3,14 +3,9 @@
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro trabalhar com diversas linguagens e frameworks para criar soluções incríveis.
 
 <div align="center">
-
-  <a href="https://github.com/rafaels549" style="margin-bottom: 100px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=dark#gh-dark-mode-only" alt="Anurag's GitHub stats-Dark" />
-  </a>
   <a href="https://github.com/rafaels549">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&theme=dark#gh-dark-mode-only" alt="Top Langs" style="max-width: 45%;" />
-  </a>
-
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rafaels549&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" />&nbsp&nbsp&nbsp
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaels549&layout=compact&langs_count=7&theme=codeSTACKr" />
 </div>
 
 ## 🔧 Tecnologias e Ferramentas
