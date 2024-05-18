@@ -1,7 +1,7 @@
 # Olá, eu sou Rafael Costa 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/rafaels549?label=Follow&style=social)](https://github.com/rafaels549)
-[![GitHub rafels549](https://img.shields.io/github/stars/rafaels549?affiliations=OWNER%2CCOLLABORATOR&style=social)](https://github.com/rafaels549)
+
 
 Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por tecnologia e adoro trabalhar com diversas linguagens e frameworks para criar soluções incríveis.
 
